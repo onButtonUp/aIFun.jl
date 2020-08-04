@@ -1,6 +1,8 @@
 module aIFun
 
+export greet
+
 # Write your package code here.
-greet() = print("Hi there.")
+greet() = println("Hi there.")
 
 end
